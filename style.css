@@ -33,7 +33,7 @@ body{
 }
 
 .wrapper{
-    width: min(40%,70rem);
+    width: min(60%,70rem);
     margin-inline:auto;
 }
 

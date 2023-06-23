@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ solution URL](https://github.com/KarimElGarhy/Product-preview-card-component)
-- Live Site URL: [live site URL]()
+- Live Site URL: [live site URL](https://karimelgarhy.github.io/Product-preview-card-component/)
 
 ## My process
 
